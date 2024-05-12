@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!-- comment -->
 **Djconsultancy/DJ Consultancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Hello world. Welcome to DJ Consultancy website, which is produced using markdown syntax and served via Github Pages. 
 
 This website contains my learnings, coaching, mentoring, improvements,automation, scripting etc.,.
